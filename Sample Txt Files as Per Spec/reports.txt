@@ -1,0 +1,184 @@
+Report Submitted 29/10/2023 16:46:59
+
+
+RESULTS
+________________________________________________________________________
+| Algorithms              D01S      D02S      D03A      D04S      D05A |
+________________________________________________________________________
+| regression              62.5      70.8        XX      65.6      48.6 |
+| decisiontree              --        XX      62.1      70.5      45.7 |
+| randomforest            68.9      62.1        --        XX        -- |
+| svm                     64.5        XX      59.4        --      50.2 |
+| mlp                     70.2        --      68.3      73.9      59.7 |
+| cnn                     80.1      76.1        --      81.4      63.5 |
+________________________________________________________________________
+
+
+RESULTS SUMMARY
+There are 6 algorithms and 5 datasets.
+The number of non-existent results is 4 and on-going results is 6.
+
+
+SIMPLE DATASET INFORMATION
+___________________________________________________________________________________________________________
+| DatasetID    Name            Type    Weight     NData         Source   Average          Range     Nfail |
+___________________________________________________________________________________________________________
+| D04S         BreastCancer       S         1       569            UCI     72.85      65.6-81.4         1 |
+| D02S         Wine               S         1       178            UCI     69.67      62.1-76.1         2 |
+| D01S         Iris               S         1       150            UCI     69.24      62.5-80.1         0 |
+___________________________________________________________________________________________________________
+
+
+ADVANCED DATASET INFORMATION
+___________________________________________________________________________________________________________
+| DatasetID    Name            Type    Weight     NData         Source   Average          Range     Nfail |
+___________________________________________________________________________________________________________
+| D03A         MNIST              A         2     70000       Personal     63.27      59.4-68.3         1 |
+| D05A         CIFAR              A         4     60000       Personal     53.54      45.7-63.5         0 |
+___________________________________________________________________________________________________________
+
+
+DATASET SUMMARY
+The most difficult dataset was CIFAR with an average score of 53.54.
+The dataset with the most failed tests was Wine with 2 failed tests.
+
+
+DL ALGORITHM INFORMATION
+______________________________________________________________________________________________________________
+| Name               Type      Year             Authors     Score   Average   Nfail    FailDataset  Nongoing |
+______________________________________________________________________________________________________________
+| cnn (!)              DL      1989                Yann        12     75.28       0                        1 |
+| mlp (!)              DL      1958          Jeff-Sarah         9     68.03       0                        1 |
+______________________________________________________________________________________________________________
+
+
+ML ALGORITHM INFORMATION
+______________________________________________________________________________________________________________
+| Name               Type      Year             Authors     Score   Average   Nfail    FailDataset  Nongoing |
+______________________________________________________________________________________________________________
+| decisiontree         ML      1963            Mike-Tim         3     59.43       1           D02S         1 |
+| regression (!)       ML      1885       John-Tom-Kate         2     61.88       1           D03A         0 |
+| randomforest         ML      2001          Bella-Ella         2     65.50       1           D04S         2 |
+| svm                  ML      1964                 Van         2     58.03       1           D02S         1 |
+______________________________________________________________________________________________________________
+
+
+ALGORITHM SUMMARY
+The best algorithm is cnn (!) with an average result of 75.275.
+The algorithm with the least failures is cnn (!) with the number of failures being 0.
+
+
+Report Submitted 29/10/2023 16:45:52
+
+
+RESULTS
+________________________________________________________________________
+| Algorithms              D01S      D02S      D03A      D04S      D05A |
+________________________________________________________________________
+| regression              62.5      70.8        XX      65.6      48.6 |
+| decisiontree              --        XX      62.1      70.5      45.7 |
+| randomforest            68.9      62.1        --        XX        -- |
+| svm                     64.5        XX      59.4        --      50.2 |
+| mlp                     70.2        --      68.3      73.9      59.7 |
+| cnn                     80.1      76.1        --      81.4      63.5 |
+________________________________________________________________________
+
+
+RESULTS SUMMARY
+There are 6 algorithms and 5 datasets.
+The number of non-existent results is 4 and on-going results is 6.
+
+
+SIMPLE DATASET INFORMATION
+___________________________________________________________________________________________________________
+| DatasetID    Name            Type    Weight     NData         Source   Average          Range     Nfail |
+___________________________________________________________________________________________________________
+| D04S         BreastCancer       S         1       569            UCI     72.85      65.6-81.4         1 |
+| D02S         Wine               S         1       178            UCI     69.67      62.1-76.1         2 |
+| D01S         Iris               S         1       150            UCI     69.24      62.5-80.1         0 |
+___________________________________________________________________________________________________________
+
+
+ADVANCED DATASET INFORMATION
+___________________________________________________________________________________________________________
+| DatasetID    Name            Type    Weight     NData         Source   Average          Range     Nfail |
+___________________________________________________________________________________________________________
+| D03A         MNIST              A         2     70000       Personal     63.27      59.4-68.3         1 |
+| D05A         CIFAR              A         4     60000       Personal     53.54      45.7-63.5         0 |
+___________________________________________________________________________________________________________
+
+
+DATASET SUMMARY
+The most difficult dataset was CIFAR with an average score of 53.54.
+The dataset with the most failed tests was Wine with 2 failed tests.
+
+
+Report Submitted 29/10/2023 16:45:30
+
+
+Report Submitted 29/10/2023 16:45:18
+
+
+RESULTS
+________________________________________________________________________
+| Algorithms              D01S      D02S      D03A      D04S      D05A |
+________________________________________________________________________
+| regression              62.5      70.8        XX      65.6      48.6 |
+| decisiontree              --        XX      62.1      70.5      45.7 |
+| randomforest            68.9      62.1        --        XX        -- |
+| svm                     64.5        XX      59.4        --      50.2 |
+| mlp                     70.2        --      68.3      73.9      59.7 |
+| cnn                     80.1      76.1        --      81.4      63.5 |
+________________________________________________________________________
+
+
+RESULTS SUMMARY
+There are 6 algorithms and 5 datasets.
+The number of non-existent results is 4 and on-going results is 6.
+
+
+SIMPLE DATASET INFORMATION
+___________________________________________________________________________________________________________
+| DatasetID    Name            Type    Weight     NData         Source   Average          Range     Nfail |
+___________________________________________________________________________________________________________
+| D04S         BreastCancer       S         1       569            UCI     72.85      65.6-81.4         1 |
+| D02S         Wine               S         1       178            UCI     69.67      62.1-76.1         2 |
+| D01S         Iris               S         1       150            UCI     69.24      62.5-80.1         0 |
+___________________________________________________________________________________________________________
+
+
+ADVANCED DATASET INFORMATION
+___________________________________________________________________________________________________________
+| DatasetID    Name            Type    Weight     NData         Source   Average          Range     Nfail |
+___________________________________________________________________________________________________________
+| D03A         MNIST              A         2     70000       Personal     63.27      59.4-68.3         1 |
+| D05A         CIFAR              A         4     60000       Personal     53.54      45.7-63.5         0 |
+___________________________________________________________________________________________________________
+
+
+DATASET SUMMARY
+The most difficult dataset was CIFAR with an average score of 53.54.
+The dataset with the most failed tests was Wine with 2 failed tests.
+
+
+Report Submitted 29/10/2023 16:45:01
+
+
+RESULTS
+________________________________________________________________________
+| Algorithms              D01S      D02S      D03A      D04S      D05A |
+________________________________________________________________________
+| regression              62.5      70.8        XX      65.6      48.6 |
+| decisiontree              --        XX      62.1      70.5      45.7 |
+| randomforest            68.9      62.1        --        XX        -- |
+| svm                     64.5        XX      59.4        --      50.2 |
+| mlp                     70.2        --      68.3      73.9      59.7 |
+| cnn                     80.1      76.1        --      81.4      63.5 |
+________________________________________________________________________
+
+
+RESULTS SUMMARY
+There are 6 algorithms and 5 datasets.
+The number of non-existent results is 4 and on-going results is 6.
+
+

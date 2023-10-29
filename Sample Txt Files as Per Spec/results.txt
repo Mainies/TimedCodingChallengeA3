@@ -1,0 +1,6 @@
+regression, D01S: 62.5, D02S: 70.8, D03A: , D04S: 65.6, D05A: 48.6
+decisiontree, D01S: 404, D02S: , D03A: 62.1, D04S: 70.5, D05A: 45.7
+randomforest, D01S: 68.9, D02S: 62.1, D03A: 404, D04S: , D05A: 404
+svm, D01S: 64.5, D02S: , D03A: 59.4, D04S: 404, D05A: 50.2
+mlp, D01S: 70.2, D02S: 404, D03A: 68.3, D04S: 73.9, D05A: 59.7
+cnn, D01S: 80.1, D02S: 76.1, D03A: 404, D04S: 81.4, D05A: 63.5

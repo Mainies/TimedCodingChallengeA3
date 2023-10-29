@@ -1,0 +1,6 @@
+regression, ML, 1885, John, Tom, Kate
+decisiontree, ML, 1963, Mike, Tim
+randomforest, ML, 2001, Bella, Ella
+svm, ML, 1964, Van
+mlp, DL, 1958, Jeff, Sarah
+cnn, DL, 1989, Yann

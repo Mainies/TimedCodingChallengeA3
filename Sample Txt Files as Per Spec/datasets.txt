@@ -1,0 +1,5 @@
+D01S, Iris, 1, 150, UCI
+D02S, Wine, 1, 178, UCI
+D03A, MNIST, 2, 70000, Personal
+D04S, BreastCancer, 1, 569, UCI
+D05A, CIFAR, 4, 60000, Personal
