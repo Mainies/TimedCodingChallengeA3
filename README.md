@@ -1,15 +1,29 @@
-# TimedCodingChallengeA3
+# Timed Coding Challenge - CLI Reporting Program
 
-This challenge was part of a short term (1-week) release. The assignment involved being able to handle command line inputs and 
-print formatting in a way that matched the assignment specification. 
+This project was part of a short-term (1-week) challenge that involved creating a command-line interface (CLI) program for handling various command line inputs and formatting output as specified in the assignment.
 
-The assignment required program design using Object Oriented paradigm. The program is required to be able to run 
-on the following:
+## Assignment Details
 
-1. my_record.py
-2. my_record.py results.txt
-3. my_record.py result.txt datasets.txt
-4. my_record.py results.txt datasets.txt algorithms.txt
+- **Objective:** Design a CLI program using Object-Oriented programming principles.
+- **Requirements:** The program should be able to run with various combinations of input files, including:
+  - `my_record.py`
+  - `my_record.py results.txt`
+  - `my_record.py result.txt datasets.txt`
+  - `my_record.py results.txt datasets.txt algorithms.txt`
+- **Exception Handling:** While exceptions were required to be handled, the order of inputted files (results, datasets, and algorithms) always remained consistent, and these files maintained a standard structure.
 
-Note that results, datasets and algorithms may have different names. There was some requirement to handle exceptions but the order of inputted
-files always remains as results, datasets and algorithms and those files maintain the same structure.
+## Usage
+
+You can use the program by running `my_record.py` with the following optional arguments:
+
+- `results.txt` (Path to the results file)
+- `datasets.txt` (Path to the datasets file)
+- `algorithms.txt` (Path to the algorithms file)
+
+Example usages:
+
+```bash
+python my_record.py
+python my_record.py results.txt
+python my_record.py results.txt datasets.txt
+python my_record.py results.txt datasets.txt algorithms.txt
